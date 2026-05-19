@@ -1,74 +1,91 @@
-<h1 align="center">Hi 👋, I'm Suvansh Sehgal</h1>
-<h3 align="center">Frontend & Backend Developer | Designer | BMU '27</h3>
-
----
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🌟 About Me  
-- 🚀 Passionate about building smart, scalable and user–friendly products  
-- 🎯 Exploring Full-Stack Development & Android  
-- 🎨 Interested in UI/UX + Creative Tech  
-- 💡 Love solving problems & building real-world solutions  
-
-</td>
-
-<td width="40%" valign="top" align="right">
-
-<img src="https://raw.githubusercontent.com/Suvanshsehgal/Suvanshsehgal/main/Gif_Profile.gif" width="400">
-
-</td>
-</tr>
-</table>
-
-### 🌱 I’m currently learning
-- Artificial Intelligence and Data Science
-
----
-
-### 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/suvansh-sehgal-721a6831b/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.instagram.com/suvansh_sehgal?igsh=MXQyZnRuZDNxZHJiag==" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
----
-
-### 🛠️ Languages & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Suvansh%20Sehgal&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
----
-# 📊 GitHub Stats:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Computer+Vision+Developer;Building+Smart+AI+Solutions;Tech+%7C+Creativity+%7C+Innovation" />
+</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suvanshsehgal&theme=dark&hide_border=false" />
+  <img src="https://komarev.com/ghpvc/?username=Suvanshsehgal&label=Profile%20Views&color=3B82F6&style=flat-square"/>
 </p>
 
 ---
-## 📈 Contribution Graph
-![Suvansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvanshsehgal&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 About Me
+
+Passionate about building intelligent systems, modern applications, and impactful digital experiences through AI and development.
+
+- 🌱 Currently learning **Deep Learning, React.js, Generative AI & Scalable Systems**
+- 🔭 Working on **AI/ML, Computer Vision & Smart Automation Projects**
+- 🛠 Building **MERN applications, Android apps & IoT systems**
+- 🎨 Interested in **UI/UX Design, Creative Development & Product Design**
+- 👯 Looking to collaborate on **AI/ML, Open Source & Hackathons**
+- 💬 Ask me about **Machine Learning, React, Node.js, JavaScript & Firebase**
+- ⚡ Fun fact: **I enjoy blending creativity with technology to build futuristic experiences**
+- 📫 Reach me: **your-email@example.com**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,vscode,figma,postman,tensorflow,opencv,androidstudio&perline=7"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Suvanshsehgal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suvanshsehgal&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/Suvanshsehgal">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+</a>
+
+</p>
 
 ---
