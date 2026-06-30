@@ -1,50 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Suvansh%20Sehgal&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Computer+Vision+Developer;Building+Smart+AI+Solutions;Tech+%7C+Creativity+%7C+Innovation" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Suvansh%20Sehgal&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:58a6ff&fontColor=ffffff&fontSize=52&desc=Machine%20Learning%20Engineer%20•%20Full%20Stack%20Developer%20•%20B.Tech%20CSE&descAlignY=60&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%7C+Data+Science+%26+AI;Full-Stack+Development+%7C+Mobile+Apps+%7C+ML+Systems;Next.js+%7C+Express+%7C+Flutter+%7C+Firebase+%7C+Flask;Building+Scalable+Products+with+Clean+Architecture" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suvanshsehgal&label=Profile%20Views&color=3B82F6&style=flat-square"/>
 </p>
 
+
 ---
 
-<table align="center">
+## 💫 About Me
+
+<div align="center">
+
+<table>
 <tr>
+<td>
 
-<td width="50%" valign="top">
-
-## 🚀 About Me
-
-Passionate about building intelligent systems, modern applications, and impactful digital experiences through AI and development.
-
-- 🌱 Currently learning **Deep Learning, React.js, Generative AI & Scalable Systems**
-- 🔭 Working on **AI/ML, Computer Vision & Smart Automation Projects**
-- 🛠 Building **MERN applications, Android apps & IoT systems**
-- 🎨 Interested in **UI/UX Design, Creative Development & Product Design**
-- 👯 Looking to collaborate on **AI/ML, Open Source & Hackathons**
-- 💬 Ask me about **Machine Learning, React, Node.js, JavaScript & Firebase**
-- ⚡ Fun fact: **I enjoy blending creativity with technology to build futuristic experiences**
-- 📫 Reach me: **your-email@example.com**
+<pre>
+const suvansh = {
+  education: "B.Tech Computer Science Engineering",
+  graduation: "2027",
+  role: "Aspiring AI/ML Engineer & Full-Stack Developer",
+  focus: [
+    "Machine Learning",
+    "Full-Stack Web Development",
+    "Data Structures & Algorithms",
+    "Backend Development",
+    "System Design"
+  ],
+  currentlyLearning: [
+    "Generative AI",
+    "Deep Learning",
+  ],
+  interests: [
+    "Artificial Intelligence",
+    "Open Source",
+  ]
+};
+</pre>
 
 </td>
-
-<td width="50%" valign="top">
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,vscode,figma,postman,tensorflow,opencv,androidstudio&perline=7"/>
-</p>
-
-</td>
-
 </tr>
-
 </table>
+
+</div>
+
+ ---
+
+## ⚡ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,vscode,figma,postman,tensorflow,opencv,androidstudio&"/>
+</div>
 
 ---
 
@@ -66,26 +80,30 @@ Passionate about building intelligent systems, modern applications, and impactfu
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://github.com/Suvanshsehgal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Suvanshsehgal">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://www.linkedin.com/in/suvansh-sehgal1602/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<a href="mailto:suvanshsehgal1602@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+<a href="https://leetcode.com/u/Suvansh16/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</p>
+</div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:1f6feb,100:58a6ff" width="100%" />
+
+</div>
