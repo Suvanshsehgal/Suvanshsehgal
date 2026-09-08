@@ -27,7 +27,7 @@
 const suvansh = {
   education: "B.Tech Computer Science Engineering",
   graduation: "2027",
-  role: "Aspiring AI/ML Engineer & Full-Stack Developer",
+  role: "Aspiring AI/ML Engineer & Software Developer",
   focus: [
     "Machine Learning",
     "Full-Stack Web Development",
